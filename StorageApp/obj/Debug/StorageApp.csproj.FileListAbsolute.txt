@@ -1,0 +1,30 @@
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\bin\Debug\StorageApp.exe.config
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\bin\Debug\StorageApp.exe
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\bin\Debug\StorageApp.pdb
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\obj\Debug\StorageApp.csprojResolveAssemblyReference.cache
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\obj\Debug\StorageApp.Dashboard.resources
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\obj\Debug\StorageApp.Login.resources
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\obj\Debug\StorageApp.Properties.Resources.resources
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.GenerateResource.Cache
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\obj\Debug\StorageApp.exe
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\obj\Debug\StorageApp.pdb
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\bin\Debug\AWSSDK.dll
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\bin\Debug\S3Bucket.dll
+D:\Projects\Ally\filemanagement\StorageApp\StorageApp\bin\Debug\S3Bucket.pdb
+F:\Codes\StorageApp\StorageApp\bin\Debug\StorageApp.exe.config
+F:\Codes\StorageApp\StorageApp\obj\Debug\StorageApp.exe
+F:\Codes\StorageApp\StorageApp\obj\Debug\StorageApp.pdb
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\bin\Debug\StorageApp.exe.config
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\bin\Debug\StorageApp.exe
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\bin\Debug\StorageApp.pdb
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\bin\Debug\S3Bucket.pdb
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.AssemblyReference.cache
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.SuggestedBindingRedirects.cache
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.Dashboard.resources
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.Login.resources
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.Properties.Resources.resources
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.GenerateResource.cache
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.CoreCompileInputs.cache
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.CopyComplete
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.exe
+E:\MY EXISTING PROJECTS\StorageApp\StorageApp\obj\Debug\StorageApp.pdb
